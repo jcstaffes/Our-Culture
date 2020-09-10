@@ -199,25 +199,25 @@ post_date: 2020-05-08 08:02:04
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"></div></div>
-<!-- /wp:group --></div></div>
-<!-- /wp:group --></div></div>
-<!-- /wp:group --></div></div>
-<!-- /wp:group --></div></div>
-<!-- /wp:group --></div></div>
-<!-- /wp:group -->
-
-<!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:group --></div></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:group -->
 
 <!-- wp:html -->
 [google_map_easy id="2"]
 <!-- /wp:html -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"></div></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:group -->
 
 <!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->

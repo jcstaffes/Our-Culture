@@ -64,17 +64,7 @@ post_date: 2020-05-08 08:02:04
 <!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://www.facebook.com/groups/anu.gh/","service":"facebook"} /-->
-
-<!-- wp:social-link {"service":"twitter"} /-->
-
-<!-- wp:social-link {"service":"instagram"} /-->
-
-<!-- wp:social-link {"service":"linkedin"} /-->
-
-<!-- wp:social-link {"service":"youtube"} /--></ul>
-<!-- /wp:social-links --></div></div>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"></div></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:group -->

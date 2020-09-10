@@ -70,12 +70,12 @@ post_date: 2020-05-08 08:02:04
 <!-- /wp:group -->
 
 <!-- wp:html -->
-<collapse title=“标题”>
+[collapse title=“标题”]
 折叠的内容
 asdfasdf
 asdfa
 ass
-</collapse>
+[/collapse]
 <!-- /wp:html -->
 
 <!-- wp:code -->
@@ -87,12 +87,12 @@ dsfsd
 <!-- /wp:code -->
 
 <!-- wp:shortcode -->
-<collapse title=“标题”>
+[collapse title=“标题”]
 折叠的内容
-asdf
-asdfasf
+asdfasdf
 asdfa
-</collapse>
+ass
+[/collapse]
 <!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->

@@ -216,7 +216,7 @@ post_date: 2020-05-08 08:02:04
 <!-- /wp:group -->
 
 <!-- wp:html -->
-[google_map_easy id="1"]
+[google_map_easy id="2"]
 <!-- /wp:html -->
 
 <!-- wp:group -->

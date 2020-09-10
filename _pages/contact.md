@@ -72,18 +72,26 @@ post_date: 2020-05-08 08:02:04
 <!-- wp:html -->
 <collapse title=“标题”>
 折叠的内容
+asdfasdf
+asdfa
+ass
 </collapse>
 <!-- /wp:html -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code>&lt;collapse title=“标题”>
 折叠的内容
+sdfsdf
+dsfsd
 &lt;/collapse></code></pre>
 <!-- /wp:code -->
 
 <!-- wp:shortcode -->
 <collapse title=“标题”>
 折叠的内容
+asdf
+asdfasf
+asdfa
 </collapse>
 <!-- /wp:shortcode -->
 

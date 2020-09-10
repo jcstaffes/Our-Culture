@@ -25,9 +25,9 @@ post_date: 2020-05-08 08:02:04
 <div class="wp-block-image is-style-rounded"><figure class="aligncenter size-large is-resized"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.25.50-PM-1-1024x1019.png" alt="" class="wp-image-408" width="254" height="253"/><figcaption><strong>Peter Kanowski</strong><br>m:&nbsp;6125 5334<br>e: peter.kanowsk@anu.edu.au</figcaption></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+<!-- wp:nextpage -->
+<!--nextpage-->
+<!-- /wp:nextpage -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
 <p class="has-medium-font-size"><strong><em>Group of contacts</em></strong></p>
@@ -226,33 +226,3 @@ post_date: 2020-05-08 08:02:04
 <!-- /wp:group --></div></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:group -->
-
-<!-- wp:html -->
-[collapse title=“标题”]
-折叠的内容
-asdfasdf
-asdfa
-ass
-[/collapse]
-<!-- /wp:html -->
-
-<!-- wp:code -->
-<pre class="wp-block-code"><code>&lt;collapse title=“标题”>
-折叠的内容
-sdfsdf
-dsfsd
-&lt;/collapse></code></pre>
-<!-- /wp:code -->
-
-<!-- wp:shortcode -->
-[collapse title=“标题”]
-折叠的内容
-asdfasdf
-asdfa
-ass
-[/collapse]
-<!-- /wp:shortcode -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->

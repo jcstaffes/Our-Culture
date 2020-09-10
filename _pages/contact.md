@@ -80,13 +80,23 @@ post_date: 2020-05-08 08:02:04
 <!-- /wp:group -->
 
 <!-- wp:html -->
-[collapse title=“标题”]折叠的内容[/collapse]
+[collapse title=“标题”]
+折叠的内容
+[/collapse]
 <!-- /wp:html -->
 
 <!-- wp:code -->
-<pre class="wp-block-code"><code>&#91;collapse title=“标题”]折叠的内容&#91;/collapse]</code></pre>
+<pre class="wp-block-code"><code>&#91;collapse title=“标题”]
+折叠的内容
+&#91;/collapse]</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:shortcode -->
-[collapse title=“标题”]折叠的内容[/collapse]
+[collapse title=“标题”]
+折叠的内容
+[/collapse]
 <!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

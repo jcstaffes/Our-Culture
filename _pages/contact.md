@@ -239,7 +239,7 @@ post_date: 2020-05-08 08:02:04
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" rel="http://anugraduatehouse.online/wp-content/uploads/2020/09/University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-4.pdf">GH UH Handbook 2020</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="http://anugraduatehouse.online/wp-content/uploads/2020/09/University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-4.pdf" rel="http://anugraduatehouse.online/wp-content/uploads/2020/09/University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-4.pdf">GH UH Handbook 2020</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->

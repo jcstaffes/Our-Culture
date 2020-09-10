@@ -70,21 +70,21 @@ post_date: 2020-05-08 08:02:04
 <!-- /wp:group -->
 
 <!-- wp:html -->
-[collapse title=“标题”]
+<collapse title=“标题”>
 折叠的内容
-[/collapse]
+</collapse>
 <!-- /wp:html -->
 
 <!-- wp:code -->
-<pre class="wp-block-code"><code>&#91;collapse title=“标题”]
+<pre class="wp-block-code"><code>&lt;collapse title=“标题”>
 折叠的内容
-&#91;/collapse]</code></pre>
+&lt;/collapse></code></pre>
 <!-- /wp:code -->
 
 <!-- wp:shortcode -->
-[collapse title=“标题”]
+<collapse title=“标题”>
 折叠的内容
-[/collapse]
+</collapse>
 <!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->

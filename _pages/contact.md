@@ -92,6 +92,26 @@ post_date: 2020-05-08 08:02:04
 <!-- wp:heading {"level":6} -->
 <h6><a href="mailto:chris.wallace@anu.edu.au">e:&nbsp;chris.wallace@anu.edu.au</a></h6>
 <!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":665,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.07-AM-1.png" alt="" class="wp-image-665"/></figure>
+<!-- /wp:image --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Dr Jill Sheppard</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Lecturer, School of Politics and International Relations</h6>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":6} -->
+<h6><a href="mailto:jill.sheppard@anu.edu.au">e:&nbsp;jill.sheppard@anu.edu.au</a></h6>
+<!-- /wp:heading --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
@@ -194,12 +214,12 @@ post_date: 2020-05-08 08:02:04
 <!-- /wp:group -->
 
 <!-- wp:html -->
-[collapse title=“标题”
+[collapse title=“标题”]
 折叠的内容
 asdfasdf
 asdfa
 ass
-/collapse]
+[/collapse]
 <!-- /wp:html -->
 
 <!-- wp:code -->

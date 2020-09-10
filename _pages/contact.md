@@ -230,25 +230,21 @@ post_date: 2020-05-08 08:02:04
 <div class="wp-block-column"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:file {"id":684,"href":"http://anugraduatehouse.online/wp-content/uploads/2020/09/University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-3.pdf"} -->
-<div class="wp-block-file"><a>University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-3</a><a href="http://anugraduatehouse.online/wp-content/uploads/2020/09/University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-3.pdf" class="wp-block-file__button" download>Download</a></div>
-<!-- /wp:file --></div></div>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"></div></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:group -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="http://anugraduatehouse.online/wp-content/uploads/2020/09/University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-4.pdf" rel="http://anugraduatehouse.online/wp-content/uploads/2020/09/University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-4.pdf">GH UH Handbook 2020</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="http://anugraduatehouse.online/wp-content/uploads/2020/09/Graduate-and-University-Houses-Handbook-2020-FINAL-3.pdf" rel="http://anugraduatehouse.online/wp-content/uploads/2020/09/University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-4.pdf">GH UH Handbook 2020</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:file {"id":686,"href":"http://anugraduatehouse.online/wp-content/uploads/2020/09/Graduate-and-University-Houses-Handbook-2020-FINAL-2.pdf"} -->
-<div class="wp-block-file"><a href="http://anugraduatehouse.online/wp-content/uploads/2020/09/Graduate-and-University-Houses-Handbook-2020-FINAL-2.pdf">GH UH Handbook 2020</a><a href="http://anugraduatehouse.online/wp-content/uploads/2020/09/Graduate-and-University-Houses-Handbook-2020-FINAL-2.pdf" class="wp-block-file__button" download></a></div>
-<!-- /wp:file --></div></div>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"></div></div>
 <!-- /wp:group -->
 
 <!-- wp:paragraph -->

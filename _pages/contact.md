@@ -229,15 +229,17 @@ post_date: 2020-05-08 08:02:04
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:file {"id":684,"href":"http://anugraduatehouse.online/wp-content/uploads/2020/09/University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-3.pdf"} -->
 <div class="wp-block-file"><a>University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-3</a><a href="http://anugraduatehouse.online/wp-content/uploads/2020/09/University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-3.pdf" class="wp-block-file__button" download>Download</a></div>
 <!-- /wp:file --></div></div>
+<!-- /wp:group --></div></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:group -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" target="_blank" rel="http://anugraduatehouse.online/wp-content/uploads/2020/09/University-House-Early-Career-Academic-Fellow-ECAFs-information-sheet-2020-3.pdf noopener noreferrer">GH UH Handbook 2020</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" target="_blank" rel="https://residents.unihouse.anu.edu.au/wp-content/uploads/Emergency-Procedures-2020-Graduate-House.pdf noopener noreferrer">GH UH Handbook 2020</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->

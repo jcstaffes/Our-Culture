@@ -36,8 +36,8 @@ post_date: 2020-05-08 08:02:04
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":660,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.41-AM.png" alt="" class="wp-image-660"/></figure>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":660,"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.41-AM.png" alt="" class="wp-image-660"/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:group -->
 
@@ -56,8 +56,8 @@ post_date: 2020-05-08 08:02:04
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":661,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.51-AM.png" alt="" class="wp-image-661"/></figure>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":661,"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.51-AM.png" alt="" class="wp-image-661"/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:group -->
 
@@ -76,8 +76,8 @@ post_date: 2020-05-08 08:02:04
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":662,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.00-AM.png" alt="" class="wp-image-662"/></figure>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":662,"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.00-AM.png" alt="" class="wp-image-662"/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:group -->
 
@@ -96,8 +96,8 @@ post_date: 2020-05-08 08:02:04
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":665,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.07-AM-1.png" alt="" class="wp-image-665"/></figure>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":665,"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.07-AM-1.png" alt="" class="wp-image-665"/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:group -->
 
@@ -118,62 +118,74 @@ post_date: 2020-05-08 08:02:04
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":660,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.41-AM.png" alt="" class="wp-image-660"/></figure>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":667,"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.17-AM.png" alt="" class="wp-image-667"/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:group -->
 
 <!-- wp:heading {"level":4} -->
-<h4>Dr Abidah Setyowati</h4>
+<h4>Dr Georgia Pike</h4>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":6} -->
-<h6>Postdoc Research Fellow, ANU College of Asia and the Pacific</h6>
+<h6>Visiting Fellow, Centre for Research on Ageing, Health and Wellbeing (CHM), Convenor, Music Engagement Program (CASS)</h6>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":6} -->
-<h6><a href="mailto:abidah.setyowati@anu.edu.au">e: abidah.setyowati@anu.edu.au</a></h6>
+<h6><a href="mailto:georgia.pike@anu.edu.au">e: georgia.pike@anu.edu.au</a></h6>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":661,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.51-AM.png" alt="" class="wp-image-661"/></figure>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":668,"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.24-AM.png" alt="" class="wp-image-668"/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:group -->
 
 <!-- wp:heading {"level":4} -->
-<h4>Dr Britta Forster</h4>
+<h4>Dr Renae Domaschenz</h4>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":6} -->
-<h6>Research Fellow, ANU College of Science</h6>
+<h6>Research Fellow John Curtin School for Medical Research</h6>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":6} -->
-<h6><a href="mailto:britta.forster@anu.edu.au">e:&nbsp;britta.forster@anu.edu.au</a></h6>
+<h6><a href="mailto:renae.domaschenz@anu.edu.au">e:&nbsp;renae.domaschenz@anu.edu.au</a></h6>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":662,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.00-AM.png" alt="" class="wp-image-662"/></figure>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":669,"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.31-AM.png" alt="" class="wp-image-669"/></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:group -->
 
 <!-- wp:heading {"level":4} -->
-<h4>Dr Chris Wallace</h4>
+<h4>Dr Rachael Rodney Harris</h4>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":6} -->
-<h6>ARC DECRA Fellow, National Centre of Biography</h6>
+<h6>Research Fellow, ANU College of Health and Medicine</h6>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":6} -->
-<h6><a href="mailto:chris.wallace@anu.edu.au">e:&nbsp;chris.wallace@anu.edu.au</a></h6>
+<h6><a href="mailto:Rachael.Rodney@anu.edu.au">e:&nbsp;Rachael.Rodney@anu.edu.au</a></h6>
 <!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"className":"is-style-rounded"} -->
+<figure class="wp-block-image is-style-rounded"><img alt=""/></figure>
+<!-- /wp:image --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
@@ -183,9 +195,7 @@ post_date: 2020-05-08 08:02:04
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:gallery {"ids":[413,415,421,418,419,420]} -->
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.25.58-PM-1-1024x1024.png" alt="" data-id="413" data-full-url="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.25.58-PM-1.png" data-link="http://anugraduatehouse.online/index.php/contact/screen-shot-2020-05-19-at-11-25-58-pm-1/" class="wp-image-413"/><figcaption class="blocks-gallery-item__caption">Matthew Dowdney</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.26.18-PM-1.png" alt="" data-id="415" data-full-url="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.26.18-PM-1.png" data-link="http://anugraduatehouse.online/index.php/contact/screen-shot-2020-05-19-at-11-26-18-pm-2/" class="wp-image-415"/><figcaption class="blocks-gallery-item__caption">Robert Freeth</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.28.53-PM-1.png" alt="" data-id="421" data-full-url="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.28.53-PM-1.png" data-link="http://anugraduatehouse.online/index.php/contact/screen-shot-2020-05-19-at-11-28-53-pm-2/" class="wp-image-421"/><figcaption class="blocks-gallery-item__caption">Graduate House Reception</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.26.30-PM.png" alt="" data-id="418" data-full-url="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.26.30-PM.png" data-link="http://anugraduatehouse.online/index.php/contact/screen-shot-2020-05-19-at-11-26-30-pm/" class="wp-image-418"/><figcaption class="blocks-gallery-item__caption">Kaori Oikawa-Ruthven</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.26.36-PM.png" alt="" data-id="419" data-full-url="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.26.36-PM.png" data-link="http://anugraduatehouse.online/index.php/contact/screen-shot-2020-05-19-at-11-26-36-pm/" class="wp-image-419"/><figcaption class="blocks-gallery-item__caption">Hoa Dao</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.26.42-PM.png" alt="" data-id="420" data-full-url="http://anugraduatehouse.online/wp-content/uploads/2020/05/Screen-Shot-2020-05-19-at-11.26.42-PM.png" data-link="http://anugraduatehouse.online/index.php/contact/screen-shot-2020-05-19-at-11-26-42-pm/" class="wp-image-420"/><figcaption class="blocks-gallery-item__caption">Margaret Kiley</figcaption></figure></li></ul></figure>
-<!-- /wp:gallery --></div></div>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"></div></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:group --></div></div>

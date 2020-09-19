@@ -16,7 +16,7 @@ post_date: 2020-09-19 07:24:28
 						Learn More
 					</a>
 			<h2>announcement</h2>		
-		<h6><b>Quick look at the latest announcement in GH / UH, Join with us !</b></h6><h6> </h6><p>See further plan on our <i><u><b><a href="https://anugraduatehouse.online/index.php/event/">Calendar</a></b></u></i></p>		
+		<p><b>Quick look at the latest announcement in GH / UH, Join with us !</b></p><p>See further plan on our <i><u><b><a href="https://anugraduatehouse.online/index.php/event/">Calendar</a></b></u></i></p>		
 				<h5>
 					<h2 data-elementor-setting-key="title" data-pen-placeholder="Type Here..." style="font-style: normal; line-height: 1.2; text-align: center;"></h2>Announcement 1
 				</h5>

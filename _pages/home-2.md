@@ -16,7 +16,7 @@ post_date: 2020-09-19 07:24:28
 						Learn More
 					</a>
 			<h2>announcement</h2>		
-		<p>Quick look at the latest announcement in GH / UH, Join with us !</p>		
+		<p>[maxbutton id="2" ] Quick look at the latest announcement in GH / UH, Join with us !</p>		
 				<h5>
 					<h2 data-elementor-setting-key="title" data-pen-placeholder="Type Here..." style="font-style: normal; line-height: 1.2; text-align: center;"></h2>Announcement 1
 				</h5>

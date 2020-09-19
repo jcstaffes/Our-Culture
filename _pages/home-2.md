@@ -17,8 +17,10 @@ post_date: 2020-09-19 07:24:28
 					</a>
 			<h2>announcement</h2>		
 		<p>[maxbutton id="2" ] Quick look at the latest announcement in GH / UH, Join with us !</p>		
+				<a href="http://www.baidu.com">
+								</a>
 				<h5>
-					<h2 data-elementor-setting-key="title" data-pen-placeholder="Type Here..." style="font-style: normal; line-height: 1.2; text-align: center;"></h2>Announcement 1
+					<a href="http://www.baidu.com"><h2 data-elementor-setting-key="title" data-pen-placeholder="Type Here..." style="font-style: normal; line-height: 1.2; text-align: center;"></h2>Announcement 1</a>
 				</h5>
 								<p>Content xxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx

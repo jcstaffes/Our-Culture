@@ -10,8 +10,8 @@ permalink: http://anugraduatehouse.online/
 published: true
 post_date: 2020-09-19 07:24:28
 ---
-<h1>A Better Place<br>To Work</h1>		
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Donec Sodales Sagittis Magna.</p>		
+<h1>Graduate House</h1>		
+		<p>Welcome to the University House student area.<br data-rich-text-line-break="true" />This section of the site is for University and Graduate House resident postgraduates only.</p>		
 			<a href="#" role="button">
 						Learn More
 					</a>

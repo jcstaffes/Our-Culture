@@ -20,35 +20,50 @@ post_date: 2020-09-19 07:24:28
 				<h5>
 					<h2 data-elementor-setting-key="title" data-pen-placeholder="Type Here..." style="font-style: normal; line-height: 1.2; text-align: center;"></h2>Announcement 1
 				</h5>
-								<p>Content xxxxxxxxxxxxxxxxxxxxxxxxx</p>
+								<p>Content xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<a href="#" role="button">
 						About Us
 					</a>
 				<h5>
 					Announcement 2
 				</h5>
-								<p>This is a short description elaborating the service you have mentioned above.​</p>
+								<p>Content xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<a href="#" role="button">
 						About Us
 					</a>
 				<h5>
 					Announcement 3
 				</h5>
-								<p>This is a short description elaborating the service you have mentioned above.​</p>
+								<p>Content xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<a href="#" role="button">
 						About Us
 					</a>
 				<h5>
-					Full Kitchen
+					Announcement 4
 				</h5>
-								<p>This is a short description elaborating the service you have mentioned above.​</p>
+								<p>Content xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<a href="#" role="button">
 						About Us
 					</a>
 				<h5>
-					Wireless Fax &amp; Printer
+					Announcement 4
 				</h5>
-								<p>This is a short description elaborating the service you have mentioned above.​</p>
+								<p>Content xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<a href="#" role="button">
 						About Us
 					</a>

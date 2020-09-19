@@ -8,7 +8,7 @@ post_excerpt: |
 layout: page
 permalink: http://anugraduatehouse.online/
 published: true
-post_date: 2020-09-19 07:28:00
+post_date: 2020-09-19 07:24:28
 ---
 <h1>A Better Place<br>To Work</h1>		
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Donec Sodales Sagittis Magna.</p>		

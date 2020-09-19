@@ -25,7 +25,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<a href="#" role="button">
-						About Us
+						See More
 					</a>
 				<h5>
 					Announcement 2
@@ -35,7 +35,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<a href="#" role="button">
-						About Us
+						See More
 					</a>
 				<h5>
 					Announcement 3
@@ -45,7 +45,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<a href="#" role="button">
-						About Us
+						See More
 					</a>
 				<h5>
 					Announcement 4
@@ -55,7 +55,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<a href="#" role="button">
-						About Us
+						See More
 					</a>
 				<h5>
 					Announcement 4
@@ -65,7 +65,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<a href="#" role="button">
-						About Us
+						See More
 					</a>
 										<img width="640" height="960" src="http://anugraduatehouse.online/wp-content/uploads/2020/07/furniture.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/07/furniture.jpg 640w, https://anugraduatehouse.online/wp-content/uploads/2020/07/furniture-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" />											
 			<h3>Space to make your<br>greatest impact.</h3>		

@@ -16,7 +16,7 @@ post_date: 2020-09-19 07:24:28
 						Learn More
 					</a>
 			<h2>announcement</h2>		
-		<p>[maxbutton id="2" ] Quick look at the latest announcement in GH / UH, Join with us !</p>		
+		<p>Quick look at the latest announcement in GH / UH, Join with us !</p>		
 				<a href="http://www.baidu.com">
 								</a>
 				<h5>
@@ -25,7 +25,8 @@ post_date: 2020-09-19 07:24:28
 								<p>Content xxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[maxbutton id="2" ]</p>
 			<a href="#" role="button">
 						About Us
 					</a>

@@ -16,17 +16,14 @@ post_date: 2020-09-19 07:24:28
 						Learn More
 					</a>
 			<h2>announcement</h2>		
-		<p>Quick look at the latest announcement in GH / UH, Join with us !</p>		
-				<a href="http://www.baidu.com">
-								</a>
+		<pre><b>Quick look at the latest announcement in GH / UH, Join with us !</b></pre><p>See further plan on our <i><u><b>Calendar</b></u></i></p>		
 				<h5>
-					<a href="http://www.baidu.com"><h2 data-elementor-setting-key="title" data-pen-placeholder="Type Here..." style="font-style: normal; line-height: 1.2; text-align: center;"></h2>Announcement 1</a>
+					<h2 data-elementor-setting-key="title" data-pen-placeholder="Type Here..." style="font-style: normal; line-height: 1.2; text-align: center;"></h2>Announcement 1
 				</h5>
 								<p>Content xxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-[maxbutton id="2" ]</p>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<a href="#" role="button">
 						About Us
 					</a>

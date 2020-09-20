@@ -20,7 +20,7 @@ post_date: 2017-09-14 10:43:22
 									<a href="">University House and Graduate House Contacts</a>
 									<a href="">House Dinner Committee</a>
 									Early Career Academic Fellows
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+					<ul><li><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.41-AM-300x300.png" alt="Num 1" width="300" height="300" />dsfaasdf</li><li><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.51-AM-296x300.png" alt="" width="296" height="300" />bhbghh</li></ul>
 									In Case of Emergency
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 									Residents - University House

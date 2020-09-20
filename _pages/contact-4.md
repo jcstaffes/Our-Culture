@@ -20,10 +20,10 @@ post_date: 2017-09-14 10:43:22
 						Twitter
 											</a>
 					<a href="#" target="_blank" rel="noopener noreferrer">
-						Youtube
-											</a>
-					<a href="#" target="_blank" rel="noopener noreferrer">
 						Linkedin
+											</a>
+					<a target="_blank" rel="noopener noreferrer">
+						Wordpress
 											</a>
 				<h4>
 					Our Location

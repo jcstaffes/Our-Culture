@@ -67,7 +67,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 										<img width="640" height="960" src="http://anugraduatehouse.online/wp-content/uploads/2020/07/furniture.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/07/furniture.jpg 640w, https://anugraduatehouse.online/wp-content/uploads/2020/07/furniture-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" />											
 			<h3>Highlight event One</h3>		
 		<p>A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made.</p>		
-			<a href="#" role="button">
+			<a href="https://anugraduatehouse.online/index.php/event/test-event/" role="button">
 						Get Your Place
 					</a>
 			<h3>Highlight Event Two</h3>		

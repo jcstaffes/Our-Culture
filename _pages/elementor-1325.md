@@ -11,10 +11,10 @@ post_date: 2020-09-20 05:17:26
 ---
 <h1>Early Career Academic Fellows</h1>		
 		A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made.		
-			<p><a href="http://abidah.setyowati@anu.edu.au"><b><u>abidah.setyowati@anu.edu.au</u></b></a></p>		
 										<img width="822" height="824" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.41-AM.png" alt="Num 1" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.41-AM.png 822w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.41-AM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.41-AM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.41-AM-768x770.png 768w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.41-AM-600x600.png 600w" sizes="(max-width: 822px) 100vw, 822px" />											
 			<h5>Dr Abidah Setyowati</h5>		
 			Postdoc Research Fellow, ANU College of Asia and the Pacific		
+			<p><a href="http://abidah.setyowati@anu.edu.au"><b><u>abidah.setyowati@anu.edu.au</u></b></a></p>		
 										<img width="812" height="820" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.07-AM-1.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.07-AM-1.png 812w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.07-AM-1-297x300.png 297w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.07-AM-1-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.07-AM-1-768x776.png 768w" sizes="(max-width: 812px) 100vw, 812px" />											
 			<h5>Jessica</h5>		
 			Design Lead		
@@ -30,7 +30,7 @@ post_date: 2020-09-20 05:17:26
 										<img width="804" height="814" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.51-AM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.51-AM.png 804w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.51-AM-296x300.png 296w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.51-AM-768x778.png 768w" sizes="(max-width: 804px) 100vw, 804px" />											
 			<h5>Dr Britta Forster</h5>		
 			Research Fellow, ANU College of Science		
-			<p><b><u>britta.forster@anu.edu.au</u></b></p>		
+			<p><a href="http://britta.forster@anu.edu.au​"><b><u>britta.forster@anu.edu.au</u></b></a></p>		
 										<img width="820" height="816" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.17-AM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.17-AM.png 820w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.17-AM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.17-AM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.17-AM-768x764.png 768w" sizes="(max-width: 820px) 100vw, 820px" />											
 			<h5>Benjamin</h5>		
 			CFO		

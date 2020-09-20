@@ -11,30 +11,78 @@ post_date: 2017-09-14 10:43:22
 ---
 <h1>Contact Us</h1>		
 		A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made.		
-									<a href="">Early Career Academic Fellows</a>
-									<a href="">In Case of Emergency</a>
-									<a href="">Residents - University House</a>
-									<a href="">Residents – Graduate House</a>
-									<a href="">Residents – University House</a>
-									<a href="">Student Leadership Team</a>
-									<a href="">University House and Graduate House Contacts</a>
-									<a href="">House Dinner Committee</a>
-									Early Career Academic Fellows
-					<ul><li><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.41-AM-300x300.png" alt="Num 1" width="300" height="300" />dsfaasdf</li><li><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.51-AM-296x300.png" alt="" width="296" height="300" />bhbghh</li></ul>
-									In Case of Emergency
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-									Residents - University House
-					Tab Content
-									Residents – Graduate House
-					Tab Content
-									Residents – University House
-					Tab Content
-									Student Leadership Team
-					Tab Content
-									University House and Graduate House Contacts
-					Tab Content
-									House Dinner Committee
-					<figure id="attachment_668" aria-describedby="caption-attachment-668" style="width: 296px"><img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.24-AM-296x300.png" alt="d s f ca" width="296" height="300" /><figcaption id="caption-attachment-668">asdf</figcaption></figure><p>Tab Content<img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.41-AM-300x300.png" alt="" width="300" height="300" /> <img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.12.51-AM-296x300.png" alt="" width="296" height="300" /> <img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.00-AM-300x300.png" alt="" width="300" height="300" /> <img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.07-AM-1-297x300.png" alt="" width="297" height="300" /> <img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.17-AM-300x300.png" alt="" width="300" height="300" /> <img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-11-at-12.13.31-AM-300x300.png" alt="" width="300" height="300" /></p>
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Kyra</h5>		
+			CEO		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-2.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-2.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-2-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-2-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Benjamin</h5>		
+			CFO		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Samantha</h5>		
+			HR Manager		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Samantha</h5>		
+			HR Manager		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Kyra</h5>		
+			CEO		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-2.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-2.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-2-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-2-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Benjamin</h5>		
+			CFO		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Samantha</h5>		
+			HR Manager		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Samantha</h5>		
+			HR Manager		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-6.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-6.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-6-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-6-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Martin</h5>		
+			Tech Lead		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-4.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-4.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-4-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-4-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Jessica</h5>		
+			Design Lead		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-3.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-3.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-3-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-3-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Samuel</h5>		
+			Developer		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-3.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-3.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-3-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-3-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Samuel</h5>		
+			Developer		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Kyra</h5>		
+			CEO		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-2.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-2.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-2-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-2-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Benjamin</h5>		
+			CFO		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-1-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Samantha</h5>		
+			HR Manager		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-6.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-6.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-6-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-6-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Martin</h5>		
+			Tech Lead		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-4.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-4.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-4-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-4-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Jessica</h5>		
+			Design Lead		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
+										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-3.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-3.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-3-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-3-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
+			<h5>Samuel</h5>		
+			Developer		
+			<h6>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</h6>		
 			<h2>Get in Touch</h2>		
 		This is a short description elaborating the reason that you have mentioned above. Tell them why you are good!		
 					<a href="#" target="_blank" rel="noopener noreferrer">

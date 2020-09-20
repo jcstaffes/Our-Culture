@@ -5,7 +5,7 @@ author: u6484911@anu.edu.au
 post_excerpt: ""
 layout: page
 permalink: >
-  https://anugraduatehouse.online/index.php/service/
+  http://anugraduatehouse.online/index.php/service/
 published: true
 post_date: 2020-05-08 08:01:12
 ---

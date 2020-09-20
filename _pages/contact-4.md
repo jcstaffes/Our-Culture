@@ -11,12 +11,6 @@ post_date: 2017-09-14 10:43:22
 ---
 <h1>Contact Us</h1>		
 		A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made.		
-					Slide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 2 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 3 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick Here				
-							Previous
-							Next
-				<nav data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes"><ul id="menu-1-228420f"><li id="menu-item-326"><a href="http://anugraduatehouse.online/index.php/service/dinner-booking/" class = "hfe-menu-item">Dinner Booking</a></li>
-</ul></nav>              
-			<h4>Table of Contents</h4>							
 			<h2>Get in Touch</h2>		
 		This is a short description elaborating the reason that you have mentioned above. Tell them why you are good!		
 					<a href="#" target="_blank" rel="noopener noreferrer">
@@ -57,6 +51,4 @@ post_date: 2017-09-14 10:43:22
 										hello@example.com
 									</li>
 						</ul>
-			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Graduate%20house&amp;t=m&amp;z=16&amp;output=embed&amp;iwloc=near" title="Graduate house" aria-label="Graduate house"></iframe>		
-			<h2>Send us a Message</h2>		
-		We would love to hear from you![wpforms id="786"]
+			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Graduate%20house&amp;t=m&amp;z=16&amp;output=embed&amp;iwloc=near" title="Graduate house" aria-label="Graduate house"></iframe>

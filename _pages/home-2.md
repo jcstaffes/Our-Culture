@@ -68,7 +68,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<h3>Highlight event One</h3>		
 		<p>A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made.</p>		
 			<a href="https://anugraduatehouse.online/index.php/event/test-event/" role="button">
-						Get Your Place
+						Learn More
 					</a>
 			<h3>Highlight Event Two</h3>		
 		<p>A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made. This paragraph is also for those who are looking out for a reliable co-working space. You can use a few enticing words and flaunt your capabilities that will attract future clients and encourage them to hire you right away. List down your expertise and experience to prove you are the best.</p>		
@@ -94,13 +94,13 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 			<h3>Highlight Event Three</h3>		
 		<p>A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made. This paragraph is also for those who are looking out for a reliable co-working space. You can use a few enticing words and flaunt your capabilities that will attract future clients and encourage them to hire you right away. List down your expertise and experience to prove you are the best.</p>		
 				<h6>
-					Membership Package
-				</h6>
-				<h6>
 					Dedicated Office Package
 				</h6>
+				<h6>
+					Membership Package
+				</h6>
 			<a href="#" role="button">
-						Check Pricing
+						Learn More
 					</a>
 										<img width="640" height="427" src="http://anugraduatehouse.online/wp-content/uploads/2020/07/gallery-1.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/07/gallery-1.jpg 640w, https://anugraduatehouse.online/wp-content/uploads/2020/07/gallery-1-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />											
 										<img width="640" height="427" src="http://anugraduatehouse.online/wp-content/uploads/2020/07/gallery-2.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/07/gallery-2.jpg 640w, https://anugraduatehouse.online/wp-content/uploads/2020/07/gallery-2-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />											

@@ -11,6 +11,9 @@ post_date: 2017-09-14 10:43:22
 ---
 <h1>Contact Us</h1>		
 		A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made.		
+					Slide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 2 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 3 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick Here				
+							Previous
+							Next
 			<h2>Get in Touch</h2>		
 		This is a short description elaborating the reason that you have mentioned above. Tell them why you are good!		
 					<a href="#" target="_blank" rel="noopener noreferrer">

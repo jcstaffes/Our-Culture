@@ -63,7 +63,7 @@ georgia.pike@anu.edu.au
 </u></b></a>		
 		</section>
 				<section data-id="4eeb98d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-										<img width="816" height="820" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.19.37-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.19.37-PM.png 816w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.19.37-PM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.19.37-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.19.37-PM-768x772.png 768w" sizes="(max-width: 816px) 100vw, 816px" />											
+										<img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.19.37-PM.png" title="" alt="" />											
 			<h5>Dr Christina Spry</h5>		
 			ANU College of Science		
 			<a href="http://christina.spry@anu.edu.au"><b><u>
@@ -439,10 +439,7 @@ e: Matthew.Dowdney@anu.edu.au
 				</h4>
 					<ul>
 							<li>
-										info@example.com
-									</li>
-								<li>
-										hello@example.com
+										???@????.com
 									</li>
 						</ul>
 			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Graduate%20house&amp;t=m&amp;z=16&amp;output=embed&amp;iwloc=near" title="Graduate house" aria-label="Graduate house"></iframe>

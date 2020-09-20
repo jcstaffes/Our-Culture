@@ -6,7 +6,7 @@ post_excerpt: |
   <p>A Better PlaceTo Work Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Donec Sodales Sagittis Magna. Learn More A Place That HelpsGrowth of Your Work Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. &hellip;</p>
   <p class="read-more"> <a class="" href="https://websitedemos.net/co-working-space-02/"> <span class="screen-reader-text">Home</span> Read More &raquo;</a></p>
 layout: page
-permalink: https://anugraduatehouse.online/
+permalink: http://anugraduatehouse.online/
 published: true
 post_date: 2020-09-19 07:24:28
 ---

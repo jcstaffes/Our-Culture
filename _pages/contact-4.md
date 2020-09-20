@@ -10,7 +10,7 @@ published: true
 post_date: 2017-09-14 10:43:22
 ---
 <h1>Contact Us</h1>		
-		A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made.		
+		<p>This page contains the contact details for relevant authorities in the house.</p>		
 			<h2>Get in Touch</h2>		
 		This is a short description elaborating the reason that you have mentioned above. Tell them why you are good!		
 					<a href="#" target="_blank" rel="noopener noreferrer">
@@ -28,7 +28,7 @@ post_date: 2017-09-14 10:43:22
 				<h4>
 					Our Location
 				</h4>
-								<p>68 East 12th Street, 1st Floor, New York, NY , 10022</p>
+								<p>The Australian National University, 118 Garran Rd, Acton ACT 2601, Australia</p>
 				<h4>
 					Call Us On
 				</h4>

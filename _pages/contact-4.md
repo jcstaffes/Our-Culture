@@ -22,9 +22,6 @@ post_date: 2017-09-14 10:43:22
 					<a href="#" target="_blank" rel="noopener noreferrer">
 						Linkedin
 											</a>
-					<a target="_blank" rel="noopener noreferrer">
-						Wordpress
-											</a>
 				<h4>
 					Our Location
 				</h4>

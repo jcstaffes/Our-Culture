@@ -13,9 +13,11 @@ post_date: 2017-09-14 10:43:22
 		<p>This page contains the contact details for relevant authorities in the house.</p>		
 									<a href="">Tab #1</a>
 									<a href="">Tab #2</a>
+									<a href="">Tab Title</a>
 									Tab #1
 									Tab #2
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+									Tab Title
 			<h2>Get in Touch</h2>		
 		This is a short description elaborating the reason that you have mentioned above. Tell them why you are good!		
 					<a href="#" target="_blank" rel="noopener noreferrer">

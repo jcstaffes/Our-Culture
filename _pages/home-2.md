@@ -65,12 +65,12 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 						See More
 					</a>
 										<img width="640" height="960" src="http://anugraduatehouse.online/wp-content/uploads/2020/07/furniture.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/07/furniture.jpg 640w, https://anugraduatehouse.online/wp-content/uploads/2020/07/furniture-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" />											
-			<h3>Space to make your<br>greatest impact.</h3>		
+			<h3>Highlight event One</h3>		
 		<p>A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made.</p>		
 			<a href="#" role="button">
 						Get Your Place
 					</a>
-			<h3>We Provides All Facilities For Better Work Environment</h3>		
+			<h3>Highlight Event Two</h3>		
 		<p>A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made. This paragraph is also for those who are looking out for a reliable co-working space. You can use a few enticing words and flaunt your capabilities that will attract future clients and encourage them to hire you right away. List down your expertise and experience to prove you are the best.</p>		
 				<h6>
 					Flexible Private Office
@@ -91,7 +91,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
 					Friendly Price Package
 				</h6>
 								<p>This is a short description elaborating the service you have mentioned above.​​</p>
-			<h3>Most Affordable Co-Working Place In The City​​</h3>		
+			<h3>Highlight Event Three</h3>		
 		<p>A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made. This paragraph is also for those who are looking out for a reliable co-working space. You can use a few enticing words and flaunt your capabilities that will attract future clients and encourage them to hire you right away. List down your expertise and experience to prove you are the best.</p>		
 				<h6>
 					Membership Package

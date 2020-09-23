@@ -9,9 +9,7 @@ permalink: >
 published: true
 post_date: 2017-09-14 10:43:22
 ---
-<h1>Contact</h1>		
-		<p>This page contains the contact details for relevant authorities in the house.</p>		
-									<a href="">Early Career Academic Fellows</a>
+<a href="">Early Career Academic Fellows</a>
 									<a href="">In Case of Emergency</a>
 									<a href="">Residents - University House</a>
 									<a href="">Residents – Graduate House</a>
@@ -63,7 +61,7 @@ georgia.pike@anu.edu.au
 </u></b></a>		
 		</section>
 				<section data-id="4eeb98d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-										<img src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.19.37-PM.png" title="" alt="" />											
+										<img width="816" height="824" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-4.18.14-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-4.18.14-PM.png 816w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-4.18.14-PM-297x300.png 297w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-4.18.14-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-4.18.14-PM-768x776.png 768w" sizes="(max-width: 816px) 100vw, 816px" />											
 			<h5>Dr Christina Spry</h5>		
 			ANU College of Science		
 			<a href="http://christina.spry@anu.edu.au"><b><u>

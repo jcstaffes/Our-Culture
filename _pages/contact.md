@@ -9,7 +9,9 @@ permalink: >
 published: true
 post_date: 2017-09-14 10:43:22
 ---
-<a href="">Early Career Academic Fellows</a>
+<h1>Contact</h1>		
+		<p>This page contains the contact details for relevant authorities in the house.</p>		
+									<a href="">Early Career Academic Fellows</a>
 									<a href="">In Case of Emergency</a>
 									<a href="">Residents - University House</a>
 									<a href="">Residents – Graduate House</a>

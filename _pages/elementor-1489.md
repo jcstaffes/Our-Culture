@@ -1,11 +1,11 @@
 ---
 ID: 1489
-post_title: 'Elementor #1489'
+post_title: Contact_Resident_GH
 author: Eric
 post_excerpt: ""
 layout: page
 permalink: >
-  https://anugraduatehouse.online/index.php/elementor-1489/
+  http://anugraduatehouse.online/index.php/elementor-1489/
 published: true
 post_date: 2020-09-27 03:43:45
 ---

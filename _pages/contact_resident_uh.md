@@ -13,7 +13,7 @@ post_date: 2020-09-27 05:53:03
 		<p>This page contains the contact details for relevant authorities in the house.</p>		
 			<h2>Residents in University House</h2>		
 			<a href="https://anugraduatehouse.online/index.php/contact/" role="button">
-						Click here
+						Back to Contact Page
 					</a>
 										<img width="822" height="820" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.34-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.34-PM.png 822w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.34-PM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.34-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.34-PM-768x766.png 768w" sizes="(max-width: 822px) 100vw, 822px" />											
 			<h5>Najikhah Fikriyati

@@ -11,7 +11,7 @@ post_date: 2020-09-27 03:43:45
 ---
 <h1>Contact</h1>		
 		<p>This page contains the contact details for relevant authorities in the house.</p>		
-			<h2>Residents in Graduate House</h2>		
+			<h2>Residents In Graduate House​</h2>		
 			<a href="https://anugraduatehouse.online/index.php/contact/" role="button">
 						Back to Contact
 					</a>

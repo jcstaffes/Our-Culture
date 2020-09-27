@@ -15,36 +15,63 @@ post_date: 2020-09-27 05:53:03
 			<a href="https://anugraduatehouse.online/index.php/contact/" role="button">
 						Click here
 					</a>
-										<img width="820" height="830" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.33-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.33-PM.png 820w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.33-PM-296x300.png 296w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.33-PM-768x777.png 768w" sizes="(max-width: 820px) 100vw, 820px" />											
-			<h5>Yuancheng Zhou</h5>		
-			Fifth Court - PhD Science		
-										<img width="814" height="824" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.58-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.58-PM.png 814w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.58-PM-296x300.png 296w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.58-PM-768x777.png 768w" sizes="(max-width: 814px) 100vw, 814px" />											
-			<h5>Xupeng Xiang</h5>		
-			Fifth Court - M International & Development Econs		
-										<img width="822" height="822" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.45.51-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.45.51-PM.png 822w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.45.51-PM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.45.51-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.45.51-PM-768x768.png 768w" sizes="(max-width: 822px) 100vw, 822px" />											
-			<h5>Hongguang Zhang</h5>		
-			Fifth Court - PhD ANU College of Engineering & Computer Science		
-										<img width="812" height="824" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.19-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.19-PM.png 812w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.19-PM-296x300.png 296w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.19-PM-768x779.png 768w" sizes="(max-width: 812px) 100vw, 812px" />											
-			<h5>Nikita Gagrani</h5>		
-			Fifth Court - PhD RS PhysSc & Engineering		
-										<img width="814" height="828" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.39-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.39-PM.png 814w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.39-PM-295x300.png 295w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.39-PM-768x781.png 768w" sizes="(max-width: 814px) 100vw, 814px" />											
-			<h5>Ding Yuan</h5>		
-			Fifth Court - PhD Research School of Biology		
-										<img width="820" height="826" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.48.08-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.48.08-PM.png 820w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.48.08-PM-298x300.png 298w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.48.08-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.48.08-PM-768x774.png 768w" sizes="(max-width: 820px) 100vw, 820px" />											
-			<h5>Donghui Wu</h5>		
-			Fifth Court - PhD Business & Economics		
-										<img width="810" height="822" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.45.59-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.45.59-PM.png 810w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.45.59-PM-296x300.png 296w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.45.59-PM-768x779.png 768w" sizes="(max-width: 810px) 100vw, 810px" />											
-			<h5>Ankita Gagrani</h5>		
-			Fifth Court - PhD ANU College of Engineering & Computer Science		
-										<img width="816" height="822" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.25-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.25-PM.png 816w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.25-PM-298x300.png 298w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.25-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.25-PM-768x774.png 768w" sizes="(max-width: 816px) 100vw, 816px" />											
-			<h5>Xiaoxuan Li</h5>		
-			Fifth Court		
-										<img width="816" height="820" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.49-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.49-PM.png 816w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.49-PM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.49-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.49-PM-768x772.png 768w" sizes="(max-width: 816px) 100vw, 816px" />											
-			<h5>Ziyi Zhu</h5>		
-			Fifth Court - PhD RS Earth Sciences		
-										<img width="814" height="824" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.48.14-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.48.14-PM.png 814w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.48.14-PM-296x300.png 296w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.48.14-PM-768x777.png 768w" sizes="(max-width: 814px) 100vw, 814px" />											
-			<h5>Jiangyue Chen</h5>		
-			PhD Arts & Social Sciences		
-										<img width="818" height="826" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.11-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.11-PM.png 818w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.11-PM-297x300.png 297w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.11-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.46.11-PM-768x776.png 768w" sizes="(max-width: 818px) 100vw, 818px" />											
-			<h5>Sekar Ayu Kanti Wening</h5>		
-			Third Court - M Environment
+										<img width="822" height="820" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.34-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.34-PM.png 822w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.34-PM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.34-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.34-PM-768x766.png 768w" sizes="(max-width: 822px) 100vw, 822px" />											
+			<h5>Najikhah Fikriyati
+</h5>		
+			South Wing - PIES Student
+										<img width="810" height="816" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.54-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.54-PM.png 810w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.54-PM-298x300.png 298w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.54-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.54-PM-768x774.png 768w" sizes="(max-width: 810px) 100vw, 810px" />											
+			<h5>Yan Zhang
+</h5>		
+			South Wing - PhD Regulation Justice
+										<img width="816" height="818" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.12-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.12-PM.png 816w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.12-PM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.12-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.12-PM-768x770.png 768w" sizes="(max-width: 816px) 100vw, 816px" />											
+			<h5>Raymond Gao
+</h5>		
+			South Wing - PhD Regulation Justice
+										<img width="812" height="818" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.31-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.31-PM.png 812w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.31-PM-298x300.png 298w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.31-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.31-PM-768x774.png 768w" sizes="(max-width: 812px) 100vw, 812px" />											
+			<h5>Abdulloh Fuadi
+</h5>		
+			South Wing - Exchange
+										<img width="812" height="814" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.49-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.49-PM.png 812w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.49-PM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.49-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.49-PM-768x770.png 768w" sizes="(max-width: 812px) 100vw, 812px" />											
+			<h5>Rizqa Ahmadi
+</h5>		
+			Garden Wing - Grad Non-Award
+										<img width="798" height="816" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.41-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.41-PM.png 798w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.41-PM-293x300.png 293w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.41-PM-768x785.png 768w" sizes="(max-width: 798px) 100vw, 798px" />											
+			<h5>Win Arifin
+</h5>		
+			South Wing - PIES Student
+										<img width="816" height="818" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.01-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.01-PM.png 816w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.01-PM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.01-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.01-PM-768x770.png 768w" sizes="(max-width: 816px) 100vw, 816px" />											
+			<h5>Rommel Real
+</h5>		
+			South Wing - PhD Science		
+										<img width="810" height="810" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.19-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.19-PM.png 810w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.19-PM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.19-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.19-PM-768x768.png 768w" sizes="(max-width: 810px) 100vw, 810px" />											
+			<h5>Susan Pennings
+</h5>		
+			South Wing - PhD Arts and Social Sciences
+										<img width="812" height="820" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.36-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.36-PM.png 812w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.36-PM-297x300.png 297w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.36-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.36-PM-768x776.png 768w" sizes="(max-width: 812px) 100vw, 812px" />											
+			<h5>Kai Tsai
+</h5>		
+			South Wing - PhD Crawford School of Public Policy
+										<img width="792" height="824" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.54-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.54-PM.png 792w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.54-PM-288x300.png 288w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.54-PM-768x799.png 768w" sizes="(max-width: 792px) 100vw, 792px" />											
+			<h5>Yesmin Zarin Chaity
+</h5>		
+			Garden Wing - G Cert Climate Risk & Adaptation
+										<img width="818" height="818" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.48-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.48-PM.png 818w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.48-PM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.48-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.52.48-PM-768x768.png 768w" sizes="(max-width: 818px) 100vw, 818px" />											
+			<h5>Ray Hong
+</h5>		
+			South Wing - Masters of Finance
+										<img width="814" height="816" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.07-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.07-PM.png 814w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.07-PM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.07-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.07-PM-768x770.png 768w" sizes="(max-width: 814px) 100vw, 814px" />											
+			<h5>Souveek Halder
+</h5>		
+			South Wing - PhD Business and Economics
+										<img width="814" height="818" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.27-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.27-PM.png 814w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.27-PM-300x300.png 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.27-PM-150x150.png 150w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.27-PM-768x772.png 768w" sizes="(max-width: 814px) 100vw, 814px" />											
+			<h5>Abby Bhardwaj
+</h5>		
+			South Wing - PhD Mathematical Sciences
+										<img width="806" height="816" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.42-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.42-PM.png 806w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.42-PM-296x300.png 296w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.53.42-PM-768x778.png 768w" sizes="(max-width: 806px) 100vw, 806px" />											
+			<h5>Sharidya Rahman
+</h5>		
+			South Wing - PhD Research School of Engineering
+										<img width="804" height="814" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.54.01-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.54.01-PM.png 804w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.54.01-PM-296x300.png 296w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-27-at-3.54.01-PM-768x778.png 768w" sizes="(max-width: 804px) 100vw, 804px" />											
+			<h5>Mradul Dhakar
+</h5>		
+			Garden Wing - M Energy change

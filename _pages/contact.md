@@ -11,6 +11,7 @@ post_date: 2017-09-14 10:43:22
 ---
 <h1>Contact</h1>		
 		<p>This page contains the contact details for relevant authorities in the house.</p>		
+			<h1>Contact Menu</h1>		
 									<a href="">Early Career Academic Fellows</a>
 									<a href="">In Case of Emergency</a>
 									<a href="">Residents – Graduate House</a>

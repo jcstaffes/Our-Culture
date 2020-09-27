@@ -12,6 +12,9 @@ post_date: 2020-09-27 03:43:45
 <h1>Contact</h1>		
 		<p>This page contains the contact details for relevant authorities in the house.</p>		
 			<h2>Residents in Graduate House</h2>		
+			<a href="https://anugraduatehouse.online/index.php/contact/" role="button">
+						Click here
+					</a>
 										<img width="340" height="340" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5.jpg 340w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5-300x300.jpg 300w, https://anugraduatehouse.online/wp-content/uploads/2020/09/team-member-5-150x150.jpg 150w" sizes="(max-width: 340px) 100vw, 340px" />											
 			<h5>Kyra</h5>		
 			CEO		

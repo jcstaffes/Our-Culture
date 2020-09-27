@@ -13,7 +13,7 @@ post_date: 2020-09-27 03:43:45
 		<p>This page contains the contact details for relevant authorities in the house.</p>		
 			<h2>Residents in Graduate House</h2>		
 			<a href="https://anugraduatehouse.online/index.php/contact/" role="button">
-						Click here
+						Back to Contact
 					</a>
 										<img width="820" height="830" src="http://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.33-PM.png" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.33-PM.png 820w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.33-PM-296x300.png 296w, https://anugraduatehouse.online/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-4.47.33-PM-768x777.png 768w" sizes="(max-width: 820px) 100vw, 820px" />											
 			<h5>Yuancheng Zhou</h5>		

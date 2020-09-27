@@ -5,7 +5,7 @@ author: Eric
 post_excerpt: ""
 layout: page
 permalink: >
-  http://anugraduatehouse.online/index.php/contact_resident_uh/
+  http://anugraduatehouse.online/index.php/contact/contact_resident_uh/
 published: true
 post_date: 2020-09-27 05:53:03
 ---

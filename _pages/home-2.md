@@ -17,56 +17,6 @@ post_date: 2020-09-19 07:24:28
 					COVID-19 UPDATESFrom 10 a.m to 12 p.m, the first floor will be sprayed due to the COVID-19 pandemic. Please avoid passing this area.Click HereSlide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick Here				
 							Previous
 							Next
-				<h5>
-					<h2 data-elementor-setting-key="title" data-pen-placeholder="Type Here..." style="font-style: normal; line-height: 1.2; text-align: center;"></h2>Announcement 1
-				</h5>
-								<p>Content xxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
-			<a href="#" role="button">
-						See More
-					</a>
-				<h5>
-					Announcement 2
-				</h5>
-								<p>Content xxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
-			<a href="#" role="button">
-						See More
-					</a>
-				<h5>
-					Announcement 3
-				</h5>
-								<p>Content xxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
-			<a href="#" role="button">
-						See More
-					</a>
-				<h5>
-					Announcement 4
-				</h5>
-								<p>Content xxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
-			<a href="#" role="button">
-						See More
-					</a>
-				<h5>
-					Announcement 4
-				</h5>
-								<p>Content xxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
-			<a href="#" role="button">
-						See More
-					</a>
 										<img width="640" height="960" src="http://anugraduatehouse.online/wp-content/uploads/2020/07/furniture.jpg" alt="" srcset="https://anugraduatehouse.online/wp-content/uploads/2020/07/furniture.jpg 640w, https://anugraduatehouse.online/wp-content/uploads/2020/07/furniture-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" />											
 			<h3>Highlight event One</h3>		
 		<p>A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made.</p>		

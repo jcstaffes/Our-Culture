@@ -14,7 +14,7 @@ post_date: 2020-09-19 07:24:28
 		<p>Welcome to the University House student area.<br data-rich-text-line-break="true" />This section of the site is for University and Graduate House resident postgraduates only.</p>		
 			<h2>announcement</h2>		
 		<p><b>Quick look at the latest announcement in GH / UH, Join with us !</b></p><p>See further plan on our <i><u><b><a href="https://anugraduatehouse.online/index.php/event/">Calendar</a></b></u></i></p>		
-					Slide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick Here				
+					COVID-19 UPDATESFrom 10 a.m to 12 p.m, the first floor will be sprayed due to the COVID-19 pandemic. Please avoid passing this area.Click HereSlide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick Here				
 							Previous
 							Next
 				<h5>

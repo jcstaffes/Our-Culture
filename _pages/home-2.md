@@ -19,7 +19,7 @@ post_date: 2020-09-19 07:24:28
 							Next
 										<img width="640" height="960" src="/wp-content/uploads/2020/07/furniture.jpg" alt="" srcset="/wp-content/uploads/2020/07/furniture.jpg 640w, /wp-content/uploads/2020/07/furniture-200x300.jpg 200w" sizes="(max-width: 640px) 100vw, 640px" />											
 			<h3>Highlight event One</h3>		
-		<p>A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made.</p>		
+		<p>The first <a href="https://residents.unihouse.anu.edu.au/announcement/movie-night-celebrate-diversity-edition/">Movie Night: Celebrate Diversity Edition</a> will be held on Monday, 12 October, at 6.30 pm, in the Graduate House Common Room.</p>		
 			<a href="https://unihouse.azurewebsites.net/index.php/event/test-event/" role="button">
 						Learn More
 					</a>

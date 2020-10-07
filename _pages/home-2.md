@@ -19,7 +19,7 @@ post_date: 2020-09-19 07:24:28
 							Next
 			<h3>Highlight Event One</h3>		
 		<p>The first <a style="box-sizing: inherit; font-size: 16px; font-style: normal; background-color: #ffffff; color: #141827;" href="https://residents.unihouse.anu.edu.au/announcement/movie-night-celebrate-diversity-edition/">Movie Night: Celebrate Diversity Edition</a> will be held on Monday, 12 October, at 6.30 pm, in the Graduate House Common Room.</p>		
-			<a href="" role="button">
+			<a href="https://unihouse.azurewebsites.net/index.php/event/test-event/" role="button">
 						Learn More
 					</a>
 										<img src="/wp-content/uploads/elementor/thumbs/facilites-ovojycfqq9ynbka2mpqslye1u7rhu7wnez164awo4g.jpg" title="facilites" alt="facilites" />											

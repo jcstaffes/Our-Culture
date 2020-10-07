@@ -17,14 +17,9 @@ post_date: 2020-09-19 07:24:28
 					COVID-19 UPDATESFrom 10 a.m to 12 p.m, the first floor will be sprayed due to the COVID-19 pandemic. Please avoid passing this area.Click Here<a href="https://unihouse.azurewebsites.net/index.php/event/">Upcoming event!Come and see what new events are coming soon！Click Here</a>				
 							Previous
 							Next
-			<h3>Highlight event One</h3>		
-		<p>The first Movie Night: Celebrate Diversity Edition will be held on Monday, 12 October, at 6.30 pm, in the Graduate House Common Room.</p>		
-			<a href="https://unihouse.azurewebsites.net/index.php/event/test-event/" role="button">
-						Learn More
-					</a>
-			<h3>Highlight Event Two</h3>		
-		<p>A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made. This paragraph is also for those who are looking out for a reliable co-working space. You can use a few enticing words and flaunt your capabilities that will attract future clients and encourage them to hire you right away. List down your expertise and experience to prove you are the best.</p>		
-			<a href="#" role="button">
+			<h3>Highlight Event One</h3>		
+		<p>The first <a style="box-sizing: inherit; font-size: 16px; font-style: normal; background-color: #ffffff; color: #141827;" href="https://residents.unihouse.anu.edu.au/announcement/movie-night-celebrate-diversity-edition/">Movie Night: Celebrate Diversity Edition</a> will be held on Monday, 12 October, at 6.30 pm, in the Graduate House Common Room.</p>		
+			<a href="" role="button">
 						Learn More
 					</a>
 										<img src="/wp-content/uploads/elementor/thumbs/facilites-ovojycfqq9ynbka2mpqslye1u7rhu7wnez164awo4g.jpg" title="facilites" alt="facilites" />											

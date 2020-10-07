@@ -24,9 +24,9 @@ post_date: 2020-09-19 07:24:28
 					</a>
 										<img src="/wp-content/uploads/elementor/thumbs/facilites-ovojycfqq9ynbka2mpqslye1u7rhu7wnez164awo4g.jpg" title="facilites" alt="facilites" />											
 										<img src="/wp-content/uploads/elementor/thumbs/affordable-pricing-ovojyddkx3zxn68ph85f6g5iflmv1x0dr3onlkv9y8.jpg" title="affordable-pricing" alt="affordable-pricing" />											
-			<h3>Highlight Event Three</h3>		
-		<p>A descriptive paragraph that tells clients how good you are and proves that you are the best choice that they’ve made. This paragraph is also for those who are looking out for a reliable co-working space. You can use a few enticing words and flaunt your capabilities that will attract future clients and encourage them to hire you right away. List down your expertise and experience to prove you are the best.</p>		
-			<a href="#" role="button">
+			<h3>Highlight Event Two</h3>		
+		<p><a href="https://residents.unihouse.anu.edu.au/event/research-talks-6-2/">The sixth Research Talks</a> of the year will be held on Wednesday 7 October, 5.5.45 pm.</p>		
+			<a href="https://residents.unihouse.anu.edu.au/announcement/research-talks-6/" role="button">
 						Learn More
 					</a>
 										<img width="640" height="427" src="/wp-content/uploads/2020/07/gallery-1.jpg" alt="" srcset="/wp-content/uploads/2020/07/gallery-1.jpg 640w, /wp-content/uploads/2020/07/gallery-1-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />											

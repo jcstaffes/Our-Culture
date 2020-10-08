@@ -18,15 +18,15 @@ post_date: 2020-09-19 07:24:28
 							Previous
 							Next
 			<h3>Highlight Event One</h3>		
-		<p>The first <a style="box-sizing: inherit; font-size: 16px; font-style: normal; background-color: #ffffff; color: #141827;" href="https://residents.unihouse.anu.edu.au/announcement/movie-night-celebrate-diversity-edition/">Movie Night: Celebrate Diversity Edition</a> will be held on Monday, 12 October, at 6.30 pm, in the Graduate House Common Room.</p>		
-			<a href="https://unihouse.azurewebsites.net/index.php/event/test-event/" role="button">
+		<p>Join us for a meditation session on Sunday morning. <br /><br />It’s a great program if you are looking to start meditation. There are thousands of studies that show meditation can reduce stress, improve sleeping increase focus and so on. We meditate and then give feedback of our feelings and thoughts during the meditation. It is a useful tool to deal with stress during the semester.<br /><br />When: 11:00-11:45am (AEST), Sunday 26 July<br />Where: Zoom (<a href="https://anu.zoom.us/j/92358343290" target="_blank" rel="nofollow noopener noreferrer" data-lynx-mode="hover" data-lynx-uri="https://l.facebook.com/l.php?u=https%3A%2F%2Fanu.zoom.us%2Fj%2F92358343290&amp;h=AT20ncDNAMjMptYwD4-JcmfXoUrnta8WncnndITjBOKuux9NQXshJaMgN8Ov85AGNJJ4sEZ_DxqZXPgYhDGqj2Le96ROK6qjmasJgPGEK1IEUr8hTUw9D1gotSrxlogoxt2unuFRyeGumS_-Eok">https://anu.zoom.us/j/92358343290</a>)</p>		
+			<a href="https://www.facebook.com/events/350695065893479/" role="button">
 						Learn More
 					</a>
 										<img src="/wp-content/uploads/elementor/thumbs/facilites-ovojycfqq9ynbka2mpqslye1u7rhu7wnez164awo4g.jpg" title="facilites" alt="facilites" />											
 										<img src="/wp-content/uploads/elementor/thumbs/affordable-pricing-ovojyddkx3zxn68ph85f6g5iflmv1x0dr3onlkv9y8.jpg" title="affordable-pricing" alt="affordable-pricing" />											
 			<h3>Highlight Event Two</h3>		
-		<p><a href="https://residents.unihouse.anu.edu.au/event/research-talks-6-2/">The sixth Research Talks</a> of the year will be held on Wednesday 7 October, 5.5.45 pm.</p>		
-			<a href="https://residents.unihouse.anu.edu.au/announcement/research-talks-6/" role="button">
+		<p>Staying healthy and in shape while quarantined is totally doable and our Keep Striving Virtual Exercise will show you just how!<br /><br />Join us for FREE weekly interactive personal exercises with Physical Trainer Blessing Strive and the Strive Strength &amp; Conditioning Team. Blessing Chinenere (PT) and Emma Eaton (Physiotherapist)<br /><br />A 30 minutes exercise session per week using bodyweight and normal home equipment if dumbbells are not available, custom training and dietary feedback for PARSA members using a Zoom platform and a personal app Recomposer to track progress.</p>		
+			<a href="https://www.facebook.com/events/2635536513348515/" role="button">
 						Learn More
 					</a>
 										<img width="640" height="427" src="/wp-content/uploads/2020/07/gallery-1.jpg" alt="" srcset="/wp-content/uploads/2020/07/gallery-1.jpg 640w, /wp-content/uploads/2020/07/gallery-1-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />											

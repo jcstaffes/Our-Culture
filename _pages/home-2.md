@@ -14,7 +14,7 @@ post_date: 2020-09-19 07:24:28
 		<p>Welcome to the University House student area.<br data-rich-text-line-break="true" />This section of the site is for University and Graduate House resident postgraduates only.</p>		
 			<h2>announcement</h2>		
 		<p><b>Quick look at the latest announcement in GH / UH, Join with us !</b></p><p>See further plan on our <i><u><b><a href="https://unihouse.azurewebsites.net/index.php/event/">Calendar</a></b></u></i></p>		
-					COVID-19 UPDATESFrom 10 a.m to 12 p.m, the first floor will be sprayed due to the COVID-19 pandemic. Please avoid passing this area.Click Here<a href="https://residents.unihouse.anu.edu.au/announcement/gh-movie-night-2/">GH Movie Night #2Our second movie night will be at 7pm this Sunday (11 October). Come down to the common room after dinner! We’ll start the movie at 7:30pm sharp. The movie will be Howl’s Moving Castle, a film by Studio Ghibli. We’ll have some snacks, and feel free to bring your own mugs of tea or coffee.Click Here</a>				
+					COVID-19 UPDATESFrom 10 a.m to 12 p.m, the first floor will be sprayed due to the COVID-19 pandemic. Please avoid passing this area.Click Here<a href="https://residents.unihouse.anu.edu.au/announcement/gh-movie-night-2/">Movie NightMovie Night: Celebrate Diversity Edition (Monday, 12 Oct, 6.30-8.45pm)Click Here</a>				
 							Previous
 							Next
 			<h3>Highlight Event One</h3>		

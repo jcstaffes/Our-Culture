@@ -10,7 +10,7 @@ permalink: http://unihouse.azurewebsites.net/
 published: true
 post_date: 2020-09-19 07:24:28
 ---
-<h1>Graduate House</h1>		
+<h1> Graduate House</h1>		
 		<p>Welcome to the University House student area.<br data-rich-text-line-break="true" />This section of the site is for University and Graduate House resident postgraduates only.</p>		
 			<h2>announcement</h2>		
 		<p><b>Quick look at the latest announcement in GH / UH, Join with us !</b></p><p>See further plan on our <i><u><b><a href="https://unihouse.azurewebsites.net/index.php/event/">Calendar</a></b></u></i></p>		

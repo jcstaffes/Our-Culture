@@ -5,7 +5,7 @@ author: u6534123@anu.edu.au
 post_excerpt: ""
 layout: post
 permalink: >
-  https://unihouse.azurewebsites.net/index.php/2020/11/23/house-dinner-sit-down-meal/
+  http://unihouse.azurewebsites.net/index.php/2020/11/23/house-dinner-sit-down-meal/
 published: true
 post_date: 2020-11-23 03:42:34
 ---

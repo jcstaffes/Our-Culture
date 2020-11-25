@@ -389,14 +389,11 @@ e: Matthew.Dowdney@anu.edu.au
 		</section>
 			<h2>Get in Touch</h2>		
 		This is a short description elaborating the reason that you have mentioned above. Tell them why you are good!		
-					<a href="#" target="_blank" rel="noopener noreferrer">
+					<a href="https://www.facebook.com/groups/anu.gh/" target="_blank" rel="noopener noreferrer">
 						Facebook
 											</a>
-					<a href="#" target="_blank" rel="noopener noreferrer">
-						Twitter
-											</a>
-					<a href="#" target="_blank" rel="noopener noreferrer">
-						Linkedin
+					<a href="https://www.youtube.com/watch?v=yxG0Fxq3rbU" target="_blank" rel="noopener noreferrer">
+						Youtube
 											</a>
 				<h4>
 					Our Location

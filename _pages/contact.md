@@ -388,7 +388,7 @@ e: Matthew.Dowdney@anu.edu.au
 		</section>
 		</section>
 			<h2>Get in Touch</h2>		
-		<p>Graduate House &amp; University House</p><p>–</p><p>place to Stay, Meet, Greet and Celebrate.</p>		
+		<h4>place to Stay, Meet, Greet and Celebrate.</h4>		
 					<a href="https://www.facebook.com/groups/anu.gh/" target="_blank" rel="noopener noreferrer">
 						Facebook
 											</a>

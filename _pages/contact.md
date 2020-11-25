@@ -388,7 +388,7 @@ e: Matthew.Dowdney@anu.edu.au
 		</section>
 		</section>
 			<h2>Get in Touch</h2>		
-		<h4>GH &amp; UH</h4><h4>-</h4><h4>place to Stay, Meet, Greet and Celebrate.</h4>		
+		<h2>GH &amp; UH</h2><h5>-</h5><h5>Stay, Meet, Greet and Celebrate.</h5>		
 					<a href="https://www.facebook.com/groups/anu.gh/" target="_blank" rel="noopener noreferrer">
 						Facebook
 											</a>
